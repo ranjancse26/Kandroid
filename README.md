@@ -17,7 +17,7 @@ Please take a look into https://www.collaborizm.com/project/SJMJAKo9x
 
 - [x] Kandy SMS Send Code and Verification
 
-- [x] User, Account and Domain Access Token related implemention
+- [x] User, Account and Domain Access Token related implementation
 
 - [x] Kandy Device - Fetch all device messages
 
